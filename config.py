@@ -1,0 +1,2 @@
+PLAYER1 = 1
+PLAYER2 = -1
